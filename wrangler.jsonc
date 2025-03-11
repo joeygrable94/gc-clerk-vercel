@@ -1,0 +1,12 @@
+{
+	"name": "gc-cf-clerk",
+	"compatibility_date": "2025-03-03",
+	"compatibility_flags": [
+		"nodejs_compat",
+		"nodejs_als"
+	],
+	"pages_build_output_dir": "./dist",
+	"observability": {
+		"enabled": true
+	}
+}
